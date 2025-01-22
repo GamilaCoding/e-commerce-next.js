@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
     Designed and developed by
-    <span> Jamila tranning for Next.js</span>© 2024.
+    <span> Gamila tranning for Next.js</span>© 2024.
   </footer>
   );
 }
